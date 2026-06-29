@@ -5,8 +5,8 @@ A simple Programming Language lexer made in Golang. Supports Integer numbers, St
 ## Code:  
 Token Structure:  
 type Token struct {  
-	Type  string  
-	Value any  
+    Type  string  
+    Value any  
 }  
   
 
